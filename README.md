@@ -24,14 +24,10 @@
 
 ---
 
-## 🌱 Current Focus
-- 🧠 Learning **DSA (Striver’s Sheet)**  
-- 💻 Building AI & full-stack projects  
-- 📘 Exploring **Streamlit** for ML apps  
-
----
-
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-link)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Ebenezer-03)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722?style=for-the-badge&logo=firefox)](https://your-portfolio-link)
+ <a href="mailto:ebenezer.s.2007@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+---
