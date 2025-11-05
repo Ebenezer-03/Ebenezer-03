@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ebenezer S!
 
-🎓 First-year CSE student passionate about AI, web development, and open-source.  
+🎓 Second-year CSE student passionate about AI, web development, and open-source.  
 💡 Currently building projects using **React, Streamlit, Django, and Firebase**.  
 🚀 Exploring **Generative AI** and **Full-Stack Development**.
 
